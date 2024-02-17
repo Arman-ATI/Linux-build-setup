@@ -14,8 +14,8 @@ sleep .5
 clear
 while true; do
     clear
-        echo -e "${BLUE}${YELLOW} 1.${NC} ${CYAN}install swap${NC}         ${BLUE}${NC}"
-        echo -e "${BLUE}${YELLOW} 2.${NC} ${CYAN}install needed pkgs${NC}         ${BLUE}${NC}"
+        echo -e "${BLUE}${YELLOW} 1.${NC} ${CYAN}install needed pkgs${NC}         ${BLUE}${NC}"
+        echo -e "${BLUE}${YELLOW} 2.${NC} ${CYAN}install swap${NC}         ${BLUE}${NC}"
         echo -e "${BLUE}${YELLOW} 3.${NC} ${CYAN}install needed pkgs and swap${NC}         ${BLUE}${NC}"
         echo -e "${BLUE}${YELLOW} 0.${NC} ${CYAN}exit${NC}         ${BLUE}${NC}"
         echo -e "This bash  was created by ${GREEN}ArmanATI${NC}\n"
